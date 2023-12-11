@@ -1,0 +1,6 @@
+// 대소 관계 비교 연산자 (Relational operators)
+// > < >= <=
+console.log(2 > 3);
+console.log(2 < 3);
+
+// true / false로 값이 나옴
